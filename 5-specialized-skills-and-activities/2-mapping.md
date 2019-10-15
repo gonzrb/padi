@@ -1,0 +1,38 @@
+1- What are the general steps for mapping a dive site, and what elements do you include in a dive site map?
+
+- You have been assigned to map a dive site:
+    - Broardens your awareness of the dive environment
+    - Gives you practice with underwater navigation
+    - Enchances your ability to communicate with your buddy and coordinate activities underwater
+- When you completed your map, use it:
+    - As a visual guide during briefings
+    - To show divers local facilities, entry, exit and point of interest
+- AS a navigation reference
+- To observe changes in the dive site over time
+- First steps is to gather tools:
+    - Compass
+    - Large slate and pencil
+    - Surface marker buoys
+    - Line or measuring device
+    - Lined or graph paper, plus ruler or protractor or computer program
+- Determine map boundaries
+    - Identify a central or reference point
+    - Get in the water and mark those points
+- Choose a search pattern
+    - Example - U-pattern
+    - Use kick cycles as a general measurement
+    - Measure specific feature more accurately
+- Work together
+    - One controls pattern while other counts kicks cycles and keeps notes
+    - Agree on how you will communicate
+- One each leg, note features and distances
+- Note distance when you hit specific depths to show contour
+    - At regular intervals
+    - Large depth changes such as drop offs
+- When you have gatthered all data, create your map
+- IF drawing the map by hand
+    - Transfer data to lined or graph paper to keep heading angles, feature placement and depth contours accurate
+    - Finish by copying to another sheet while fine-tuning
+- If using a computer program, use available tools such as background grids and layers to keep data accurate and to add details
+- Fill in shoreline, facility and topside features such as moorings
+
