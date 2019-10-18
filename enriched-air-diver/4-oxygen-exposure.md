@@ -12,13 +12,23 @@
 
 4- What is the primary hazard of exceeding the oxygen exposure limits?
 
-- 
+- There are two types of oxygen toxicity rhat can occur by exceeding oxygen limits. 
+    - Fatal accident due to convulsing and drowning. This can happen due to central nervous system (CNS) toxicity.
+    - Pulmonar Oxygen toxicity
 
 5- What six signs and symptoms may procede a convulsion caused by oxygen toxicity?
 
-- 
+- The warning signs and symptoms for oxygen toxicity include:
+    - visual disturbances, including tunnel vision
+    - ear ringing
+    - nausea
+    - twiching or musde spasms, specially in the face
+    - irritability, restlessness, euphoria or anxiety
+    - dizziness
+
+- Some divers remember these by remembering VENTID.
+- If you experience any CNS toxicity symtoms, end the dive by beggining a normal ascent inmediately.
 
 6- What should you do if you accidentally exceed the oxygen exposure limits for your computer?
 
-- 
-
+- If you accidentally exceed the maximum oxygen exposure limits for your computer, ascend immediately but slowly, make a safety stop and end the dive. Do not dive for 24 hours, or as stipulated by the computer manufacturer. 
