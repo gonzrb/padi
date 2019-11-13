@@ -1,0 +1,24 @@
+1- How do you change an object's buoyancy by increasing displacement or adding weight to make it positively, negatively or neutrally buoyant in both freshwater and salt water?
+
+- Archimedes principle:
+    - An object wholly or partially immersed in a fluid is buoyed up by a force equal to the weight of the fluid displaced by the object
+- To decrease buoyancy - add weight or decrease displacement
+- Example:
+    - If wearing a thick wet suit, hood, gloves and boots, you will likely float
+    - To become neutral or negative you must put on weight system
+- To increase buoyancy - displace more water or release weight
+    - Attach a device that can be filled with air - lift bag 
+- Displacing water qual to object's weight 
+    - neutrally buoyant
+- Greater displacemnent
+    - positively buoyant
+- To change the buoyancy of object that is neutral:
+    - Add weight
+    - Decraase volume or displacement
+    - Increase volume or displacement
+- A diver who is neutrally buoyant:
+    - Picks up a heavy weight - becomes negative
+    - Lets air out of the BCD - becomes negative
+    - Adds too much air to the BCD - becomes positive
+- The denser the water - the greater the buoyancy
+    - An object will be more buoyant in salt water than in fresh
