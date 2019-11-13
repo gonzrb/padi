@@ -47,5 +47,8 @@
     - Under pressure - no bubbles - equilibrium
     - Pressure relieved - the gas comes out of solution
 - If the difference between the dissolved gas and the surrounding pressure is not excessive - the gas comes out slowly
-- If the difference exceeds critical point - bubbles form 
+- If the difference exceeds critical point - bubbles form
+- The human body is comprised mainly of water
+    - Principle underlying decompression sickness and reason for dive tables
+    - Reason to solwly ascent from every dive
 
