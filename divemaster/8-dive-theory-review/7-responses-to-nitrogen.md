@@ -70,15 +70,27 @@
 		- illness that affect the efficiency of the circulatory system
 	- Alcohol - Drinking alcohol before or after diving accelerates circulation, dilates capilaries and promotes dehydration - alters nitrogen elimination
 	- Exess carbon dioxide - Increased levels can alter circulation and gas exchange
-	- Colrd water - a diver starts a dive warm with normal circulation, but cools and circulation to the extremities is reduced - slowing nitrogen elimination
+	- Cold water - a diver starts a dive warm with normal circulation, but cools and circulation to the extremities is reduced - slowing nitrogen elimination
 	- Heavy exercise
 		- Working hard during a dive accelerates circulation - more nitrogen than normal dissolves into the body
-		- After or immediately before a dive, heavy exercise accelerates circulation, altering nitrogen elimination and stimulating the production of microbubbles
+		- After or immediately before a dive, heavy exercise accelerates circulation, altering nitrogen elimination and stimulating the production of microbubbles that can grow into larger DCS causing bubbles
+	- Altitude or flying after dyving - Dive tables and computers are based on surfacing at sea level - exposure to lower pressure increases the tissue pressure gradient and may increase bubble formation
+	- History of DCS - Studies of divers suggest that someone who has had DCS will be more predisposed to it in the future
 
 5- What are the recommendations for DCS first aid and tratment?
 
-- 
+- If you suspect a diver has DCS provide oxygen - preferably 100 percent
+- Keep brathing patient lying level
+- Lie a nonbreathing patient on the back for rescue breathing and CPR
+- Advice the patient not to sit up, even during transport or if feeling better
+- Monitor airway, breathing and circulation, and contact emergency medical services
 
 6- What is the difference between DCI and DCS?
 
-- 
+- Decompression illness (DCI) 	is an overall terms for DCS and lung overexpansion injures 
+	- Describe first aid and treatment - identical for both conditions 
+- In the field, don't try to diagnose conditions - immediately offer first aid and get an injured diver to professional medical care
+- If discussing conditions caused by disolved nitrogen comiong out of solution, use DCS
+- If talking about any dive injury that will likely require hyperbaric treatment, use DCI
+
+
