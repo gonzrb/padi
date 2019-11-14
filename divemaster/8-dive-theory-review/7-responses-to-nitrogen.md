@@ -46,10 +46,34 @@
 	- in about half the cases, it appears within an hour
 	- some take up to 36 hours
 	- often worsens during first few hours
+- Two types:
+	- Type 1 - pain-only
+		- Not inmediately life-threatening or likely to cause long-term disability
+		- skin bends- a rash
+	- Type 2 - affects the nervous system
+		- May be inmediately life-threatening or debilitating
+		- Signs and symptoms - tingling, numbness,paralysis, stroke-like symptoms, unconsciousness and cardiac or respiratory arrest
+- Pulmonary DCS is a rare from that occurs when bubbles accumulate rapidly in the pulmonary capillaries, interfering with blood flow and gas exchange
+- Cereblar DCS - occurs when bubbles travel to the brain and cause arterial gas ambolism
+	- Signs and sympthoms include blurred vision, confusion, headache, unconsciousness and death
+
 
 4- What factors may predispose a diver to DCS?
 
-- 
+- Because everyone has a different physiology the predisposition to DCS varies from person to person
+- Factors that may predispose a diver to DCS
+	- Fat tissue - nitrogen is more soluble in fat
+	- Age - circulatory systems become less efficient, an increased percentage of fat and reduced fitness could decrease nitrogen elimination
+	- Dahydration - A reduced quantity of blood in circulation slows nitrogen elimination
+	- Injures or illness -
+		- injures areas could alter or restrit circulation leading to areas where nitrogen isn't eliminated quickly
+		- illness that affect the efficiency of the circulatory system
+	- Alcohol - Drinking alcohol before or after diving accelerates circulation, dilates capilaries and promotes dehydration - alters nitrogen elimination
+	- Exess carbon dioxide - Increased levels can alter circulation and gas exchange
+	- Colrd water - a diver starts a dive warm with normal circulation, but cools and circulation to the extremities is reduced - slowing nitrogen elimination
+	- Heavy exercise
+		- Working hard during a dive accelerates circulation - more nitrogen than normal dissolves into the body
+		- After or immediately before a dive, heavy exercise accelerates circulation, altering nitrogen elimination and stimulating the production of microbubbles
 
 5- What are the recommendations for DCS first aid and tratment?
 
