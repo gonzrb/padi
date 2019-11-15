@@ -71,12 +71,31 @@
 4- How do your lungs respond to changing pressure?
 
 - Breathe continuously
-- 
 
 5- What are the causes and physiologies of the lung overexpansion injures, air embolism, pneumothorax, mediastinal exphysema and subcutaneous emphysema?
 
-- 
+- The most serious lung overexpansion injury is air embolism
+    - also called arterial gas embolism (AGE)
+- When alveoli and pulmonary capillaries rupture, air bubbles enter the bloodstream and flow int oarteries
+    - Bubbles can lodge anywhere, stopping blood flow
+    - When they flow through the caritid arteries to the brain results in a cerebral air embolism
+- Signs and symtomps - dizziness, confusion, shock, paralysis, personality change, unconsciousness and death
+- Pneumothorax is a serious injury that occurs when air collects between the lung and chest wall, causing the lung to collapse
+- Sumptoms include chest pain and coughing up blood
+- Mediastinal emhasema occurs when air from a lung rupture accumulates in center of the chest over the heart
+    - Air can press on the hear and vessels, and interfere with circulation
+- Signs and symptoms include feeling faint and having shortness of breath
+- Subcutaneous emphysema occurs when air from rupture accumulates in soft tissues at base of the neck
+    - Often happens in conjuntion with mediastinal emphysema
+- Signs and symptoms include fullness in the neck, voice change and skin that crackles when tocuhed
+- Two or more, or all 4, injures could happen simultaneously
 
 6- What are the recommendations for lung overexpansion injury first aid and treatment?
 
-- 
+- Treatment is the same a for decompression sickness
+    - Give oxygen - preferably 100 percent
+    - Keep a breathing patient lying level
+    - Advice the patient not to sit up
+    - Lie a nonbreathing patient on the back for CPR
+    - Monitor the airway, breathing and circulation, and contact emergency medical services
+- IF the diver has an air embolism, prompt recompression is critical to diminish bubbles
