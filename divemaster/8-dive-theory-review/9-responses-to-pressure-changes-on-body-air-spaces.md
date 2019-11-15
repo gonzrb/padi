@@ -44,14 +44,33 @@
     - Tight fitting hoods or anything that can obstruct the outer ear could also be a problem
 - Obstruction creates an airspace that can't be equialized
     - During descent, the eardrum flexes toward the unequialized space, and can rupture outward
-- Some speial ear protectors and vented ear plugs made for scuba diving allow for equaliation
+- Some special ear protectors and vented ear plugs made for scuba diving allow for equaliation
+- During descvent, congedtion in the sinuses could result in a squeeze
+    - Pressure or pain between the eyes, over the teeth or in the checkbones
+    - Blood and fluid fill the sinus to restore pressure balance
+- During ascent, accumulated fluids and blood often flow into the diver's mask
+- Sinus squeeze usually heals on it's own, unless accompanied by entended pain or fever, suggesting a sinus infection
+- Reverse block - occurs in the ears of sinuses if congestion prevents expanding air from escaping during ascent
+- FOr the ears - eardrum flexes outward
+    - If air not given a chance to work its way out, the eardrum could rupture outward
+- For the sinuses - a slow ascent usually gives air a chance to work int's way out
+    - Fluid and blood may flow from diver's nose, and extended pain or fever suggest a sinus infection
 
 3- What are the causes and physiologies of mask and dry suit squeezes?
 
-- 
+- You probably equialize the air space in your mask without even thinking about it
+- Mask squeeze occurs most commonly on very rapid descents when a diver neglects to equialize the mask
+    - Results in swollen facial tissues and capillary rupture in the skin and eyes
+    - Looks dramatic, but generally clears without complications
+- Dry suit squeeze occurs when a diver fails to add air to the dry suit when descending
+    - The most common cause is a rapid descent with the dry suit inflator accidentally left disconnected
+    - Cause pinching and can raise welts and caise skin injury
+    - Severe squeeze can constrict breathing
+    - Easily prevented using proper techniques
 
 4- How do your lungs respond to changing pressure?
 
+- Breathe continuously
 - 
 
 5- What are the causes and physiologies of the lung overexpansion injures, air embolism, pneumothorax, mediastinal exphysema and subcutaneous emphysema?
